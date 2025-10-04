@@ -4,8 +4,7 @@
 I’m a software developer passionate about **Dart / Flutter**.  
 I enjoy solving real-world problems and learning new technologies.
 
-- 📫 How to reach me: [web](https://hamidravanbod.ir/) | [LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Telegram](<img width="1707" height="1954" alt="image" src="https://github.com/user-attachments/assets/ee3f40f9-b0df-4db9-b5a1-894ed123ba51" />
-)  
+- 📫 How to reach me: [web](https://hamidravanbod.ir/) | [LinkedIn](https://www.linkedin.com/in/hamid-ravanbod/) | [Telegram](https://t.me/hamidravanbod)  
   
 ---
 
